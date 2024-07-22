@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Shagun🙋
-- 👀 I’m exploring application development🍃
-- 🌱 I’m currently working Associate Software Engineer💻
+- 👋 Hi, I’m Shagun🙋.
+- 👀 I’m exploring application development🍃.
+- 🌱 I’m currently working Associate Software Engineer💻.
 - 💞️ I’m looking to collaborate on application & web development projects.
-- 📫 How to reach me:🔗https://www.linkedin.com/in/shagun-choudhary/
+- 📫 How to reach me:🔗shagunwork123@gmail.com
 - 😄 Pronouns: shagun
-- ⚡ Fun fact: ...
+- ⚡ Education: Btech in Computer Science.
 
 <!---
 shagunwork/shagunwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
